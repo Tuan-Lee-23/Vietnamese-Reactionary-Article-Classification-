@@ -1,0 +1,877 @@
+,viet tat,mean
+0,ABC,Công ty Truyền thông ABC
+1,ADB,Ngân hàng Phát triển châu Á
+2,ADN,AND
+3,ANĐT,an ninh điều tra
+4,ATGT,An toàn Giao thông
+5,ATM,Máy rút tiền tự động
+6,ATNĐ,áp thấp nhiệt đới
+7,ATTT,An toàn Trật tự
+8,ATTTGT,An toàn Trật tự Giao thông
+9,ATVSTP,an toàn vệ sinh thực phẩm
+10,BBCVT,Bộ Bưu chính Viễn thông
+11,BBT,Ban biên tập
+12,BC,"Bán công, Bưu chính"
+13,BCĐ,Ban chỉ đạo
+14,BCĐĐMĐH,Ban chỉ đạo đổi mới đại học
+15,BCĐPCTNTƯ,Ban chỉ đạo phòng chống tham nhũng trung ương
+16,BCĐQG,Ban chỉ đạo Quốc gia
+17,BCĐT,Bưu chính điện tử
+18,BCĐTS,Ban chỉ đạo tuyển sinh
+19,BCHCD,Ban chỉ huy chiến dịch
+20,BCHQS,Bộ chỉ huy quân sự
+21,BCHTƯ,Ban chỉ huy trung ương
+22,BCHTW,Ban chỉ huy trung ương
+23,BCVT,Bưu chính Viễn thông
+24,BD,Bình Dương
+25,BĐ,Bóng đá
+26,BĐN,Bồ Đào Nha
+27,BĐS,bất động sản
+28,BĐVN,Bóng đá Việt Nam
+29,BGD,Bộ Giáo dục
+30,BGDĐT,Bộ Giáo dục và Đào tạo
+31,BGH,Ban giám hiệu
+32,BGK,Ban giám khảo
+33,BH,Bảo hiểm
+34,BHĐC,bán hàng đa cấp
+35,BHL,Ban huấn luyện
+36,BHV,Ban huấn luyện
+37,BHXH,Bảo hiểm xã hội
+38,BHYT,Bảo hiểm y tế
+39,BIDV,Ngân hàng Đầu tư và Phát triển Việt Nam
+40,BK,Bách khoa
+41,BKS,"Ban Kiểm soát, biển kiểm soát"
+42,BLHS,Bộ luật Hình sự
+43,BP,Biên phòng
+44,BQL,Ban quản lý
+45,BQLDA,Ban Quản lý dự án
+46,BSC,Công ty Chứng khoán Ngân hàng Đầu tư & Phát triển Việt Nam
+47,BT,"bảo trì, bộ trưởng"
+48,BTA,Hiệp định Thương mại Việt - Mỹ
+49,BTBNN,bảo trợ bệnh nhân nghèo
+50,BTC,Ban tổ chức
+51,BTS,Ban tuyển sinh
+52,BTV,Biên tập viên
+53,BTVH,Bổ túc Văn hóa
+54,BV,Bện viện
+55,BVĐK,Bệnh viện Đa khoa
+56,BVTV,Bảo vệ thực vật
+57,BX,Bến xe
+58,BXL,Bộ xử lý
+59,CAHN,Công an Hà Nội
+60,CAND,Công an Nhân dân
+61,CATP,Công an Thành phố
+62,CB,"Cơ bản, Cán bộ, Chế biến"
+63,CBCC,cán bộ công chức
+64,CBCNV,Cán bộ công nhân viên
+65,CBQLGD,cán bộ quản lý giáo dục
+66,CCB,Cựu chiến binh
+67,CCHC,cải cách hành chính
+68,CĐ,Cao đẳng
+69,CĐDC,chất độc da cam
+70,CĐSP,Cao đẳng Sư phạm
+71,CĐV,Cổ động viên
+72,CG,Nhóm các nhà tài trợ cho Việt Nam
+73,CHDC,Cộng hòa Dân chủ
+74,CHDCND,Cộng hòa Dân chủ Nhân dân
+75,CHLB,Cộng hòa Liên bang
+76,CHND,Cộng hòa Nhân dân
+77,CK,Chứng khoán
+78,CLB,Câu lạc bộ
+79,CMND,Chứng minh nhân dân
+80,CNCN,Chi nhánh Cấp nước
+81,CNH,Công nghiệp hóa
+82,CNKT,công nhân kỹ thuật
+83,CNQSDĐ,chứng nhận quyền sử dụng đất
+84,CNSH,Công nghệ sinh học
+85,CNTN,cử nhân tài năng
+86,CNTT,Công nghệ thông tin
+87,CNV,Công nhân viên
+88,CNVC,Công nhân viên chức
+89,COPD,bệnh phổi tắc nghẽn mãn tính
+90,CP,"Cổ phần, cổ phiếu"
+91,CPE,Hợp đồng lao động đầu tiên
+92,CPH,Cổ phần hóa
+93,CPP,Đảng Nhân dân Campuchia
+94,CPSXTM,cổ phần Xây dựng sản xuất thương mại
+95,CPTD,cổ phiếu tự do
+96,CPTTT,chậm phát triển trí tuệ
+97,CPXD,cấp phép xây dựng
+98,CQĐT,Cơ quan điều tra
+99,CSCĐ,cảnh sát cơ động
+100,CSDC,cảnh sát dã chiến
+101,CSDL,Cơ sở Dữ liệu
+102,CSĐN,cảnh sát đặc nhiệm
+103,CSĐT,"Cảnh sát điều tra, cơ sở đào tạo"
+104,CSĐTLX,cơ sở đào tạo lái xe
+105,CSĐTTP,Cảnh sát Điều tra tội phạm
+106,CSĐTTPMT,Cảnh sát điều tra tội phạm ma túy
+107,CSG,Cảng Sài Gòn
+108,CSGT,Cảnh sát giao thông
+109,CSHS,Cảnh sát Hình sự
+110,CSKH,Chăm sóc khách hàng
+111,CSKT,Cảnh sát kinh tế
+112,CSKV,Cảnh sát khu vực
+113,CSPCTPMT,Cục cảnh sát phòng chống tội phạm ma túy
+114,CSPK,công suất phản kháng
+115,CSQLHC,Cảnh sát Quản lý hành chính
+116,CSSD,Đảng Xã hội Dân chủ cánh tả
+117,CSSX,cơ sở sản xuất
+118,CSVC,Cơ sở vật chất
+119,CSVL,Cao su Việt - Lào
+120,CSVN,Cộng sản Việt Nam
+121,CSXH,chính sách xã hội
+122,CT,"Chính trị, Công ty"
+123,CTCC,Công trình Công cộng
+124,CTCH,chấn thương chỉnh hình
+125,CTCK,công ty chứng khoán
+126,CTCLQG,Chương trình chống lao quốc gia
+127,CTCN,Công ty Cấp nước
+128,CTCP,Công ty Cổ phần
+129,CTĐ,Chữ thập đỏ
+130,CTĐL,Công ty Điện lực
+131,CTN,chuyển tiền nhanh
+132,CTSN,Chấn thương sọ não
+133,CTTC,cho thuê tài chính
+134,CTTH,chương trình truyền hình
+135,CTTNHH,Công ty Trách nhiệm Hữu hạn
+136,CTTT,chương trình tiên tiến
+137,CTV,cộng tác viên
+138,CTXH,Công tác xã hội
+139,CV,Chuyên viên
+140,CVPM,Công viên phần mềm
+141,CX,Cư xá
+142,DAGTĐT,dự án giao thông đô thị
+143,ĐATP,Đông Á - Thép Pomina
+144,ĐB,"Đại biểu, Đồng bằng"
+145,ĐBDT,đồng bào dân tộc
+146,ĐBP,Điện Biên Phủ
+147,ĐBQH,Đại biểu quốc hội
+148,ĐBSCL,Đồng bằng sông Cửu Long
+149,ĐBTN,Đại biểu thanh niên
+150,ĐBTSXB,đánh bắt thủy sản xa bờ
+151,ĐC,"địa chỉ, điều chế"
+152,DCCH,Dân chủ Cộng hòa
+153,ĐCS,Đảng cộng sản
+154,ĐCSTQ,Đảng cộng sản Trung Quốc
+155,ĐCSVN,Đảng cộng sản Việt Nam
+156,DD,"Dân dụng, Dinh dưỡng"
+157,ĐD,Đại diện
+158,ĐĐ,"Động đất, đất đai"
+159,DDVN,Duyên Dáng Việt Nam
+160,ĐH,Đại học
+161,ĐHBC,Đại học Bán công
+162,ĐHBK,Đại học Bách khoa
+163,ĐHBKHCM,Đại học Bách khoa Thành phố Hồ Chí Minh
+164,ĐHBKHN,Đại học Bách khoa Hà Nội
+165,ĐHBKTPHCM,Đại học Bách khoa Thành phố Hồ Chí Minh
+166,ĐHCĐ,"đại hội cổ đông, Đại học Công đoàn"
+167,ĐHCLC,đại học chất lượng cao
+168,ĐHCN,đại học Công nghệ
+169,ĐHCT,Đại học Cần Thơ
+170,ĐHĐCQT,Đại học đẳng cấp quốc tế
+171,ĐHĐD,Đại học Đông Dương
+172,ĐHDL,Đại học Dân lập
+173,ĐHĐN,Đại học Đà nẵng
+174,ĐHGTVT,Đại học Giao thông Vận tải
+175,ĐHHB,Đại học Hồng Bàng
+176,ĐHHVN,Đại học Hàng hải Việt Nam
+177,ĐHKH,Đại học Khoa học
+178,ĐHKHTN,Đại học Khoa học tự nhiên
+179,ĐHKHTNHN,Đại học Khoa học tự nhiên Hà nội
+180,ĐHKHXH,Đại học Khoa học Xã hội
+181,ĐHKT,Đại học Kỹ thuật
+182,DHKTCN,Đại học Kỹ thuật Công nghệ
+183,ĐHKTCN,Đại học Kỹ thuật Công nghệ
+184,ĐHKTQD,Đại học Kinh tế Quốc dân
+185,ĐHN,"Điện hạt nhân, đồng hồ nước"
+186,ĐHNT,Đại học Nha Trang
+187,ĐHQG,Đại học Quốc gia
+188,ĐHQGHN,Đại học Quốc gia Hà nội
+189,DHS,du học sinh
+190,ĐHSP,Đại học Sư phạm
+191,ĐK,Đăng ký
+192,ĐKDT,đăng ký dự thi
+193,ĐKĐT,điện kế điện tử
+194,ĐKHK,Đăng ký hộ khẩu
+195,ĐKKD,Đăng ký kinh doanh
+196,ĐKKH,đăng ký kết hôn
+197,ĐKVĐ,Đương kim vô địch
+198,ĐKVN,Điền kinh Việt Nam
+199,ĐKXT,đăng ký xét tuyển
+200,DL,Du lịch
+201,ĐL,đo lường
+202,ĐLTP,điện kế điện tử
+203,ĐMN,Đá Mỹ Nghệ
+204,DN,Doanh nghiệp
+205,ĐN,"Đồng nai, Đà nẵng"
+206,ĐNA,Đông nam á
+207,ĐNÁ,Đông Nam Á
+208,DNNN,Doanh nghiệp nhà nước
+209,DNT,Doanh nghiệp trẻ
+210,DNTN,Doanh nghiệp Tư nhân
+211,DNVN,doanh nghiệp Việt Nam
+212,DNVVN,doanh nghiệp vừa và nhỏ
+213,ĐRL,điểm rèn luyện
+214,DS,dân số
+215,ĐS,đường sắt
+216,ĐSQ,đại sứ quán
+217,DT,dự tuyển
+218,ĐT,Đào tạo
+219,ĐTA,đồng tính ái
+220,ĐTB,điểm trung bình
+221,ĐTĐ,đái tháo đường
+222,ĐTDĐ,Điện thoại di động
+223,DTHT,dạy thêm học thêm
+224,ĐTHVN,Đài truyền hình Việt Nam
+225,ĐTLA,Đồng tính luyến ái
+226,ĐTLT,đào tạo liên thông
+227,ĐTNN,đầu tư nước ngoài
+228,DTQG,Đội tuyển quốc gia
+229,ĐTQG,Đội tuyển quốc gia
+230,ĐTTX,Đào tạo từ xa
+231,ĐTTXQM,Đào tạo từ xa Qua mạng
+232,ĐTV,điều tra viên
+233,ĐTVHD,động thực vật hoang dã
+234,ĐTVN,Đội tuyển Việt Nam
+235,ĐTXDCB,đầu tư xây dựng cơ bả
+236,DV,"Dịch vụ, Diễn viên"
+237,ĐV,Đoàn viên
+238,ĐVHT,Đơn vị học trình
+239,DVTMCM,dịch vụ thương mại Cà Mau
+240,ĐVTN,đoàn viên thanh niên
+241,DVTT,"Dịch vụ trực tuyến, dịch vụ thông tin"
+242,ĐVTTN,Đoàn viên thanh thiếu nhi
+243,ĐVƯT,đoàn viên ưu tú
+244,DVVL,dịch vụ việc làm
+245,EU,Liên minh châu Âu
+246,EVN,Công ty Viễn thông điện lực
+247,FIFA,Liên đoàn bóng đá thế giới
+248,GATT,Hiệp định chung về Thuế quan và Thương mại
+249,GCMND,giấy chứng minh nhân dân
+250,GCN,Giấy chứng nhận
+251,GCNĐKKD,Giấy chứng nhận đăng ký kinh doanh
+252,GCNKQT,giấy chứng nhận kết quả thi
+253,GCNQSD,giấy chứng nhận quyền sử dụng
+254,GCNQSDĐ,Giấy chứng nhận quyền sử dụng đất
+255,GCNQSDĐƠ,Giấy chứng nhận quyền sử dụng đất ở
+256,GCNQSH,Giấy chứng nhận quyền sở hữu
+257,GCNQSHN,Giấy chứng nhận quyền sở hữu nhà
+258,GCNQSHNƠ,Giấy chứng nhận quyền sở hữu nhà ở
+259,GCNSK,giấy chứng nhận sức khỏe
+260,GCQ,giấy chủ quyền
+261,GD,Giáo dục
+262,GĐ,Giám đốc
+263,GDĐH,giáo dục dục đại học
+264,GĐĐH,giám đốc điều hành
+265,GDĐT,Giáo dục & Đào tạo
+266,GDGT,giáo dục giới tính
+267,GDNN,giáo dục nghề nghiệp
+268,GĐT,Gạch Đồng Tâm
+269,GĐTLA,Gạch Đồng Tâm Long An
+270,GĐTT,Giám đốc thông tin
+271,GDTX,Giáo dục thường xuyên
+272,GHPGVN,Giáo hội Phật giáo Việt Nam
+273,GK,Giáo khoa
+274,GKQT,chứng nhận kết quả thi
+275,GL,Gia Lai
+276,GMD,gái mại dâm
+277,GP,Giấy phép
+278,GPC,Công ty Dịch vụ Viễn thông
+279,GPLHĐB,giấy phép lưu hành đặc biệt
+280,GPLX,Giấy phép lái xe
+281,GPNK,phép nhập khẩu
+282,GPTM,giải phẫu thẩm mỹ
+283,GPXD,Giấy phép xây dựng
+284,GS,Giáo sư
+285,GSTS,Giáo sư Tiến sỹ
+286,GSTSKH,Giáo sư Tiến sỹ Khoa học
+287,GSTT,giám sát trọng tài
+288,GT,"Giao thông , Giá trị"
+289,GTCC,Giao thông Công chánh
+290,GTGT,Giá trị gia tăng
+291,GTMT,giãn tĩnh mạch tinh
+292,GTVT,Giao thông Vận tải
+293,GV,"Giáo viên, Giảng viên"
+294,GVCN,Giáo viên chủ nhiệm
+295,GVG,giáo viên giỏi
+296,GVMN,"giáo viên mầm non, giáo viên miền núi"
+297,GVTH,giáo viên tiểu học
+298,GVTN,giáo viên tình nguyện
+299,HAGL,Hoàng Anh Gia Lai
+300,HB,Học bổng
+301,HBV,virus viêm gan B
+302,HC,"hành chính, huy chương"
+303,HCB,Huy chương bạc
+304,HCĐ,Huy chương đồng
+305,HCM,Hồ Chí Minh
+306,HCTC,học chế tín chỉ
+307,HCTL,hội chợ triển lăm
+308,HCV,Huy chương vàng
+309,HCVL,Hội chợ việc làm
+310,HD,Hướng dẫn
+311,HĐ,"Hội đồng, Hợp đồng"
+312,HĐBA,Hội đồng Bảo an Liên Hiệp Quốc
+313,HĐCD,Hội đồng chức danh
+314,HĐCDGS,Hội đồng chức danh giáo sư
+315,HĐCDGSCS,Hội đồng chức danh giáo sư cơ sở
+316,HĐCDGSN,Hội đồng Chức danh giáo sư ngành
+317,HĐCDGSNN,Hội đồng Chức danh giáo sư nhà nước
+318,HĐCT,hội đồng coi thi
+319,HĐĐB,Hội đồng Đền bù
+320,HĐĐG,Hội đồng định giá
+321,HĐH,Hệ điều hành
+322,HĐKT,hợp đồng kinh tế
+323,HĐLĐ,Hợp đồng lao động
+324,HĐNDTP,Hội đồng nhân dân thành phố
+325,HĐNT,hội đồng nghệ thuật
+326,HĐQT,Hội đồng Quản trị
+327,HĐT,"hội đồng trường , hội đồng thi"
+328,HĐTĐ,Hội đồng thẩm định
+329,HĐTS,Hội đồng tuyển sinh
+330,HĐTT,Hội đồng Trọng tài
+331,HDV,hướng dẫn viên
+332,HĐXX,Hội đồng xét xử
+333,HH,Hoa hậu
+334,HHTG,Hoa hậu Thế giới
+335,HHVN,Hoa hậu Việt Nam
+336,HK,Học kỳ
+337,HKDD,Hàng không dân dụng
+338,HKDDVN,Hàng không dân dụng Việt Nam
+339,HKHKT,hội khoa học kỹ thuật
+340,HKHKTVN,hội khoa học kỹ thuật Việt Nam
+341,HKTT,hộ khẩu thường trú
+342,HL,huấn luyện
+343,HLBĐ,Hoa Lâm Bình Định
+344,HLQG,Huấn luyện Quốc gia
+345,HLTTQG,Trung tâm huấn luyện thể thao quốc gia
+346,HLV,Huấn luyện viên
+347,HMNĐ,hiến máu nhân đạo
+348,HN,"Hà Nội, Hội nghị"
+349,HND,Hội nông dân
+350,HNGĐ,hôn nhân gia đình
+351,HNHT,hội nghị hiệp thương
+352,HNV,Hội Nhà văn
+353,HP,"Hải phòng, Học phần"
+354,HPHN,Hòa Phát Hà Nội
+355,HQ,"Hải quan, Hàn quốc"
+356,HQĐT,Hải quan điện tử
+357,HQHP,Hải quan Hải phòng
+358,HS,Học sinh
+359,HSBC,Học sinh bán công
+360,HSĐKDT,Hồ sơ đăng ký dự thi
+361,HSDPA,Truy nhập gói đường xuống tốc độ cao
+362,HSG,học sinh giỏi
+363,HSGQG,học sinh giỏi Quốc gia
+364,HSGQT,học sinh giỏi Quốc tế
+365,HSPT,học sinh phổ thông
+366,HSSV,Học sinh sinh viên
+367,HSV,Hội sinh viên
+368,HTCĐ,học tập cộng đồng
+369,HTXDVNN,Hợp tác xã dịch vụ nông nghiệp
+370,HUD,Tổng công ty Đầu tư phát triển nhà và đô thị
+371,HV,Học viên
+372,HVANND,Học viện An ninh Nhân dân
+373,HVBCVT,Học viện Bưu chính Viễn thông
+374,HVCH,Học viên Cao học
+375,HVCNBCVT,Học viện Công nghệ Bưu chính Viễn thông
+376,HVKHQS,Học viện Khoa học Quân sự
+377,HVN,Honda Việt Nam
+378,HVNCL,Hàng Việt Nam chất lượng
+379,HVNCLC,Hàng Việt Nam chất lượng cao
+380,HVNH,Học viện Ngân hàng
+381,IMF,Quỹ tiền tệ quốc tế
+382,KBNN,Kho bạc Nhà nước
+383,KBS,Kênh truyền hình TW Hàn Quốc
+384,KCB,khám chữa bệnh
+385,KCN,Khu công nghiệp
+386,KCX,Khu chế xuất
+387,KDC,khu dân cư
+388,KĐCL,Kiểm định chất lượng
+389,KĐCLGD,Kiểm định chất lượng Giáo dục
+390,KDCN,Kiểu dáng công nghiệp
+391,KDDV,kinh doanh dịch vụ
+392,KDĐV,Kiểm dịch động vật
+393,KDHĐC,kinh doanh hàng đa cấp
+394,KDL,Khu du lịch
+395,KDN,Kinh doanh nhà
+396,KDNPN,Kinh doanh nhà Phú Nhuận
+397,KĐS,Khu đường sông
+398,KĐT,Khu đô thị
+399,KĐTM,Khu đô thị mới
+400,KĐTNTL,Đô thị Nam Thăng Long
+401,KH,Kế hoạch
+402,KHCN,Khoa học Công nghệ
+403,KHĐT,Kế hoạch Đầu tư
+404,KHKD,Kế hoạch kinh doanh
+405,KHKT,Khoa học Kỹ thuật
+406,KHKTHN,Khoa học Kỹ thuật Hạt nhân
+407,KHKTHS,Khoa học kỹ thuật hình sự
+408,KHKTNN,Khoa học kỹ thuật Nông nghiệp
+409,KHKTNNMN,Khoa học kỹ thuật Nông nghiệp miền Nam
+410,KHLS,Khoa học lịch sử
+411,KHTN,Khoa học Tự nhiên
+412,KHXH,Khoa học Xãn hội
+413,KK,Khuyến khích
+414,KKT,khu kinh tế
+415,KL,Kết luận
+416,KLĐT,kết luận điều tra
+417,KLQG,Kỷ lục quốc gia
+418,KN,Khuyến nông
+419,KNTC,khiếu nại tố cáo
+420,KP,khu phố
+421,KS,"Kỹ sư, Khách sạn"
+422,KSND,Kiểm sát nhân dân
+423,KSNDTC,Kiểm sát Nhân dân Tối cao
+424,KST,ký sinh trùng
+425,KSV,kiểm sát viên
+426,KTM,Khu thương mại
+427,KTNN,Kinh tế nhà nước
+428,KTQD,kinh tế quốc dân
+429,KTQDHN,Kinh tế Quốc dân Hà Nội
+430,KTS,Kiến trúc sư
+431,KTTV,khí tượng thủy văn
+432,KTV,Kỹ thuật viên
+433,KTX,Ký túc xá
+434,KV,Khu vực
+435,KV1,Khu vực 1
+436,KV2,Khu vực 2
+437,KV3,Khu vực 3
+438,LB,Liên bang
+439,LCT,"Luật Cạnh tranh, Luật công ty"
+440,LĐ,Lao động
+441,LĐBĐ,Liên đoàn bóng đá
+442,LĐBĐVN,Liên đoàn bóng đá Việt Nam
+443,LĐLĐ,Liên đoàn Lao động
+444,LDP,Đảng Dân chủ Tự do
+445,LĐTB,Lao động Thương binh
+446,LĐTBXH,Lao động Thương binh Xã hội
+447,LH,"Liên hiệp, Liên hoan"
+448,LHP,Liên hoan phim
+449,LHPN,Liên hiệp Phụ nữ
+450,LHQ,"Liên hiệp quốc, Lên hợp quốc"
+451,LHS,lưu học sinh
+452,LHTN,Liên hiệp Thanh niên
+453,LHTNVN,Hội Liên hiệp Thanh niên Việt Nam
+454,LL,lực lượng
+455,LLLĐ,Lực lượng lao động
+456,LS,Luật sư
+457,LSQ,Lãnh sự quán
+458,LTQĐTD,lây truyền qua đường tình dục
+459,MB,Ngân hàng TMCP quân đội
+460,MBH,mũ bảo hiểm
+461,MHX,Mùa hè xanh
+462,MS,Mã số
+463,MT,"Môi trường, Mặt trận"
+464,MTĐT,Máy tính điện tử
+465,MTTQ,Mặt trận tổ quốc
+466,MTTQVN,Mặt trận tổ quốc Việt Nam
+467,MTXT,Máy tính xách tay
+468,NC,Nghiên cứu
+469,NCC,nhà cung cấp
+470,NCKH,nghiên cứu khoa học
+471,NCL,ngoài công lập
+472,NCS,Nghiên cứu sinh
+473,NCTO,Hội đồng Các Tổ chức Dệt may Quốc gia Mỹ
+474,NCTT,Nghiên cứu thị trường
+475,ND,Nhân dân
+476,NĐ,Nghị định
+477,NDC,Trung tâm dữ liệu Viễn thám Quốc gia
+478,NDT,Nhân dân tệ
+479,NĐT,Nhà đầu tư
+480,NĐVN,người đẹp Việt Nam
+481,NH,Ngân hàng
+482,NHCSXH,Ngân hàng Chính sách xã hội
+483,NHCTCN,Ngân hàng Công thương Chi nhánh
+484,NHCTHP,Ngân hàng Công thương Hải Phòng
+485,NHCTVN,Ngân hàng Công thương Việt Nam
+486,NHĐA,Ngân hàng Đông Á
+487,NHĐÁ,Ngân hàng Đông Á
+488,NHĐT,Ngân hàng Đầu tư
+489,NHĐTPT,Ngân hàng Đầu tư phát triển
+490,NHK,Đài truyền hình quốc gia Nhật Bản
+491,NHNN,Ngân hàng nhà nước
+492,NHNNo,Ngân hàng Nông nghiệp và Phát triển Nông thôn
+493,NHNNPTNT,Ngân hàng Nông nghiệp và Phát triển Nông thôn
+494,NHNNVN,Ngân hàng Nhà nước Việt Nam
+495,NHNoVN,Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam
+496,NHNT,Ngân hàng Ngoại thương
+497,NHRC,Ủy ban Nhân quyền quốc gia
+498,NHTM,Ngân hàng Thương mại
+499,NHTMCP,ngân hàng thương mại cổ phần
+500,NHTMNN,ngân hàng thương mại nhà nước
+501,NHTMQD,ngân hàng thương mại quốc doanh
+502,NHTQ,Ngân hàng Trung ương Trung Quốc
+503,NHTSA,Cục an toàn xa lộ quốc gia Mỹ
+504,NHTƯ,Ngân hàng Trung ương
+505,NHTW,Ngân hàng Trung ương
+506,NK,Nhập khẩu
+507,NKBV,nhiễm khuẩn bệnh viện
+508,NKKN,Nam Kỳ Khởi Nghĩa
+509,NKNV,Năng khiếu Nghiệp vụ
+510,NKT,người khuyết tật
+511,NL,Năng lượng
+512,NLĐ,Người lao động
+513,NLMT,năng lượng mặt trời
+514,NLS,nông lâm sản
+515,NLTT,năng lượng tái tạo
+516,NMĐ,nhà máy điện
+517,NN,Nhà nước
+518,NNCĐDC,Nạn nhân chất độc da cam
+519,NNPTNT,Nông nghiệp và Phát triển nông thôn
+520,NPP,Nhà phân phối
+521,NQ,Nghị quyết
+522,NQD,ngoài quốc doanh
+523,NS,Nghệ sỹ
+524,NSND,Nghệ sỹ nhân dân
+525,NSNN,ngân sách nhà nước
+526,NST,nhiễm sắc thể
+527,NSƯT,Nghệ sỹ ưu tú
+528,NTBD,Nghệ thuật biểu diễn
+529,NTD,"Nhà tuyển dụng, người tiêu dùng"
+530,NTK,nhà thiết kế
+531,NV,"Nhân viên, Nguyện vọng"
+532,NV1,Nguyện vọng 1
+533,NV2,Nguyện vọng 2
+534,NV3,Nguyện vọng 3
+535,NVH,Nhà văn hóa
+536,NVHTN,Nhà Văn hóa Thanh niên
+537,NXB,Nhà xuất bản
+538,NXBGD,Nhà xuất bản Giáo dục
+539,NXBKHXH,Nhà xuất bản Khoa học Xã hội
+540,NXBQĐND,Nhà xuất bản Quân đội Nhân dân
+541,NXBTN,Nhà xuất bản Tự nhiên
+542,NXBVHTT,Nhà xuất bản Văn hóa Nghệ thuật
+543,PC14,Phòng Cảnh sát điều tra tội phạm về trật tự xã hội
+544,PC15,Phòng Cảnh sát điều tra tội phạm về quản lý kinh tế và chức vụ
+545,PC16,Phòng Cảnh sát điều tra
+546,PC17,Phòng cảnh sát phòng chống tội phạm ma tuý
+547,PCBL,phòng chống bão lụt
+548,PCBLTKCN,phòng chống bão lụt và tìm kiếm cứu nạn
+549,PCBTH,phổ cập bậc trung học
+550,PCC,Phòng công chứng
+551,PCCC,Phòng cháy chửa cháy
+552,PCGD,phổ cập giáo dục
+553,PCGDBTH,phổ cập giáo dục bậc trung học
+554,PCGDTH,phổ cập giáo dục tiểu học
+555,PCGDTHCS,phổ cập giáo dục trung học cơ sở
+556,PCLBMN,phòng chống lụt bão miền Nam
+557,PCLBTƯ,phòng chống lụt bão Trung ương
+558,PCLBTW,phòng chống lụt bão Trung ương
+559,PCT,"Phó chủ tịch,"
+560,PCTH,phổ cập tiểu học
+561,PCTHCS,phổ cập trung học cơ sở
+562,PCTN,Phòng chống tệ nạn
+563,PCTNXH,Phòng chống tệ nạn xã hội
+564,PCTPCNC,Phòng chống tội phạm công nghệ cao
+565,PGĐ,Phó giám đốc
+566,PGHH,Phật giáo Hòa Hảo
+567,PGS,Phó Giáo sư
+568,PHHS,phụ huynh học sinh
+569,PL,Pháp luật
+570,PLO,Tổ chức Giải phóng Palestin
+571,PM,phần mềm
+572,PMU,Ban quản lý dự án
+573,PMU18,Ban quản lý dự án 18
+574,PN,Phụ nữ
+575,PNTR,Quy chế Thương mại bình thường vĩnh viễn
+576,PP,phương pháp
+577,PS,Phóng sự
+578,PTCS,Phổ thông cơ sở
+579,PTN,phòng thí nghiệm
+580,PTNT,Phát triển Nông thôn
+581,PTSC,Công ty Dịch vụ Kỹ thuật dầu khí
+582,PTT,Phó thủ tướng
+583,PTTH,Phổ thông trung học
+584,PTTM,Phẫu thuật thẩm mỹ
+585,PTTT,Phát triển trẻ thơ
+586,PTV,Phát thanh viên
+587,PV,"Phóng viên, Phỏng vấn"
+588,PY,Phú Yên
+589,QBLTD,Quĩ bảo lãnh tín dụng
+590,QC,Quy chế
+591,QCDCCS,quy chế dân chủ cơ sở
+592,QCGNHH,Quy chế ghi nhãn hàng hóa
+593,QCHQ,quan chức hải quan
+594,QCKDTXD,Quy chế kinh doanh thép xây dựng
+595,QCKT,quy chuẩn kĩ thuật
+596,QĐ,Quyết định
+597,QĐND,Quân đội nhân dân
+598,QG,Quốc gia
+599,QH,Quốc hội
+600,QHTD,Quan hệ tình dục
+601,QK,Quân khu
+602,QL,Quản lý
+603,QLD,Quản lý dược
+604,QLDA,Quản lý dự án
+605,QLĐT,Quản lý Đào tạo
+606,QLTT,Quản lý thị trường
+607,QN,Quảng Ninh
+608,QSD,quyền sử dụng
+609,QSDĐ,quyền sử dụng đất
+610,QTKD,Quản trị Kinh doanh
+611,RLC,rối loạn cương
+612,RLCD,rối loạn cương dương
+613,SARS,"SARS, Hội chứng hô hấp cấp tính nặng"
+614,SBD,Số báo danh
+615,SBS,Công ty Chứng khoán Ngân hàng Sài Gòn Thương Tín
+616,SD,sử dụng
+617,SDĐ,sử dụng đất
+618,SDĐNN,sử dụng đất nông nghiệp
+619,SĐH,sau đại học
+620,SĐK,số đăng ký
+621,SĐNĐ,Sông Đà Nam Định
+622,SĐT,số điện thoại
+623,SĐTLA,Sơn Đồng Tâm Long An
+624,SG,Sài Gòn
+625,SGD,Sở giáo dục
+626,SGGP,Sài gòn giải phóng
+627,SGK,Sách giáo khoa
+628,SGT,Saigontourist
+629,SGTT,Sài Gòn Tiếp Thị
+630,SGTVT,Sở Giao thông Vận tải
+631,SH,Sinh hoạt
+632,SHNN,Sở hữu nhà nước
+633,SHTD,sinh hoạt tình dục
+634,SHTT,sở hữu trí tuệ
+635,SJC,Công Ty Vàng Bạc Đá Quý TP Hồ Chí Minh
+636,SK,Sân khấu
+637,SKHCN,Sở Khoa học Công nghệ
+638,SKHCNMT,Sở Khoa học Công nghệ và Môi trường
+639,SKHĐT,Sở Kế hoạch và Đầu tư
+640,SKSS,sức khỏe sinh sản
+641,SLNA,Sông Lam Nghệ An
+642,SMĐH,Sao mai Điểm hẹn
+643,SN,"Sinh năm, sinh ngày"
+644,SNN,sở Nông nghiệp
+645,SP,"Sư phạm, Sản phẩm"
+646,SPKT,Sư phạm kỹ thuật
+647,SS,Sĩ số
+648,SSA,Hiệp hội Tôm miền Nam nước Mỹ
+649,STB,Ngân hàng thương mại cổ phần Sài Gòn Thương Tín
+650,SV,Sinh viên
+651,SVĐ,Sân vận động
+652,SVĐV,Sao Vàng Đất Việt
+653,SVHS,Sinh viên học sinh
+654,SV–HS,Sinh viên học sinh
+655,SVNCKH,Sinh viên nghiên cứu khoa học
+656,SVTN,Sinh viên tình nguyện
+657,SVVN,Sinh viên Việt Nam
+658,SX,Sản xuất
+659,SXH,sốt xuất huyết
+660,SYLL,Sơ yếu lý lịch
+661,TACN,thức ăn chăn nuôi
+662,TAND,Tòa án nhân dân
+663,TANDTC,Tòa án Nhân dân Tối cao
+664,TBD,Thái Bình Dương
+665,TBKTSG,Thời báo kinh tế Sài Gòn
+666,TBKTVN,Thời báo Kinh tế Việt Nam
+667,TBMMN,Tai biến mạch máu não
+668,TBT,Tổng biên tập
+669,TBTT,thuê bao trả trước
+670,TBXH,Thương binh Xã hội
+671,TC,"Tài chính, Tổng cộng"
+672,TCBVNTD,Tiêu chuẩn và bảo vệ người tiêu dùng
+673,TCCN,trung cấp chuyên nghiệp
+674,TCCS,"tổ chức cơ sở, Tạp chí Cộng sản"
+675,TCDL,Tổng cục Du lịch
+676,TCHL,tuyệt chủng hàng loạt
+677,TCHQ,Tổng cục hải quan
+678,TCKH,"Tài chính - Kế hoạch, Tạp chí Khoa học, trái cây không hạt"
+679,TCKT,Tài chính - Kế toán
+680,TCMN,thủ công mỹ nghệ
+681,TCMR,tiêm chủng mở rộng
+682,TCN,trung cấp nghề
+683,TCNN,Tài chính nhà nước
+684,TCS,Trịnh Công Sơn
+685,TCT,Tổng công ty
+686,TCTD,tổ chức tín dụng
+687,TCTT,trò chơi trực tuyến
+688,TCTTMSG,Tổng công ty Thương mại Sài Gòn
+689,TCVN,Tiêu chuẩn Việt Nam
+690,TCVSG,Thảo Cầm Viên Sài Gòn
+691,TD,tình dục
+692,TĐ,từ điển
+693,TĐBKVN,Từ Điển Bách Khoa Việt Nam
+694,TĐC,tái định cư
+695,TDTT,Thể dục thể thao
+696,TDTTQG,Thể dục thể thao Quốc gia
+697,TDV,trình dược viên
+698,TFS,Hãng phim Truyền hình TPHCM
+699,TG,thế giới
+700,TGĐ,Tổng giám đốc
+701,TGPL,trợ giúp pháp lý
+702,TH,"Truyền hình, Trung học"
+703,THCB,Trung học Chuyên ban
+704,THCN,Trung học chuyên nghiệp
+705,THCS,Trung học cơ sở
+706,THCSND,Thực hiện chính sách nhà đất
+707,THCSNĐ,Thực hiện chính sách nhà đất
+708,THDL,trung học dân lập
+709,THGT,tín hiệu giao thông
+710,THKTS,truyền hình kỹ thuật số
+711,THKTSMĐ,truyền hình kỹ thuật số mặt đất
+712,THPT,Trung học phổ thông
+713,THQG,thương hiệu quốc gia
+714,THS,Tín hiệu số
+715,THTT,truyền hình trực tiếp
+716,THVN,Truyền hình Việt Nam
+717,THX,Tân hoa xã
+718,TK,thiết kế
+719,TKCN,tìm kiếm cứu nạn
+720,TM,Thương mại
+721,TMCP,Thương mại cổ phần
+722,TMĐT,Thương mại Điện tử
+723,TMN,Thép Miền Nam
+724,TMV,Công ty ôtô Toyota Việt Nam
+725,TN,Thanh niên
+726,TNCN,thu nhập cá nhân
+727,TNCS,Thanh niên cộng sản
+728,TNĐH,tốt nghiệp đại học
+729,TNDN,Thu nhập doanh nghiệp
+730,TNĐT,Thoát nước Đô thị
+731,TNGT,Tai nạn giao thông
+732,TNHC,Trinh nữ hoàng cung
+733,TNHH,Trách nhiệm hữu hạn
+734,TNK,thuế nhập khẩu
+735,TNKQ,trắc nghiệm khách quan
+736,TNLN,thanh niên lập nghiệp
+737,TNMT,Tài nguyên Môi trường
+738,TNND,Tiếng nói Nhân dân
+739,TNNT,thanh niên nông thôn
+740,TNO,Thanh niên Online
+741,TNS,tu nghiệp sinh
+742,TNSV,thanh niên sinh viên
+743,TNSVVN,thanh niên sinh viên Việt Nam
+744,TNT,Tình Nguyện Trẻ
+745,TNTN,"thanh niên tình nguyện, tài nguyên thiên nhiên"
+746,TNTP,Thiếu niên Tiền phong
+747,TNV,Tình nguyện viên
+748,TNVN,Thanh niên Việt Nam
+749,TNXH,tệ nạn xã hội
+750,TNXK,Thanh niên xung kích
+751,TNXP,Thanh niên xung phong
+752,TPCĐ,trái phiếu chuyển đổi
+753,TPCN,Thực phẩm chức năng
+754,TPCT,Thành phố Cần Thơ
+755,TPHCM,Thành phố Hồ Chí Minh
+756,TPO,Tiên phong Online
+757,TQ,Trung Quốc
+758,TSDĐ,tiền sử dụng đất
+759,TSKH,Tiến sỹ Khoa học
+760,TSN,Tân Sơn Nhất
+761,TT,"Trung tâm, Thị trường"
+762,TTBĐS,thị trường bất động sản
+763,TTBDVH,Trung tâm bồi dưỡng văn hóa
+764,TTBDVHNG,Trung tâm bồi dưỡng văn hóa ngoài giờ
+765,TTBVQTG,Trung tâm bảo vệ quyền tác giả
+766,TTBYT,Trang thiết bị y tế
+767,TTCK,"Trung tâm chứng khoán, Thị trường Chứng khoán"
+768,TTCN,"Tuổi trẻ Chủ nhật, Trung tâm cai nghiện, Tiểu thủ công nghiệp"
+769,TTCP,"Thanh tra Chính phủ , Thủ tướng Chính phủ"
+770,TTCT,Thể Thao Cuối Tuần
+771,TTĐB,thuế Tiêu thụ đặc biệt
+772,TTDD,Trung tâm Dinh dưỡng
+773,TTĐM,Trung tâm Điện máy
+774,TTDV,Trung tâm Dịch vụ
+775,TTDVVL,Trung tâm Dịch vụ việc làm
+776,TTg,Thủ tướng
+777,TTGDCK,Trung tâm giao dich chứng khoán
+778,TTGDTX,Trung tâm Giáo dục thường xuyên
+779,TTGT,Trật tự Giao thông
+780,TTH,Thừa Thiên Huế
+781,TTHTCĐ,Trung tâm học tập cộng đồng
+782,TTHTSV,trung tâm hỗ trợ sinh viên
+783,TTK,tổng thư ký
+784,TTLT,Thông tư liên tịch
+785,TTN,thanh thiếu niên
+786,TTNN,Trung tâm Ngoại Ngữ
+787,TTO,Tuổi trẻ online
+788,TTQLKT,trật tự quản lý kinh tế
+789,TTTH,Trung tâm Tin học
+790,TTTM,trung tâm thương mại
+791,TTTON,thụ tinh trong ống nghiệm
+792,TTTTN,trí thức trẻ tình nguyện
+793,TTVGT,trật tự viên giao thông
+794,TTVH,Trung tâm Văn hóa
+795,TTVN,"Trí tuệ Việt Nam, Trái tim Việt Nam, Thể thao Việt Nam"
+796,TTXH,trật tự xã hội
+797,TTXVN,Thông tấn xã Việt Nam
+798,TTYT,Trung tâm y tế
+799,TTYTDP,Trung tâm Y tế dự phòng
+800,TV,"Thư viện, Tivi"
+801,TVHK,tiếp viên hàng không
+802,TVN,Than Việt Nam
+803,TVQH,Thường vụ Quốc hội
+804,TVV,tư vấn viên
+805,TW,Trung ương
+806,TX,Thị xã
+807,UBCKNN,Ủy ban Chứng khoán Nhà nước
+808,UBKT,Uỷ ban Kiểm tra
+809,UBMTTQ,Ủy ban Mạt trận Tổ quốc
+810,UBMTTQVN,Ủy ban Mặt trận Tổ quốc Việt Nam
+811,UBNDTP,Ủy ban Nhân dan Thành phố
+812,UBTDTT,Ủy ban Thể dục Thể thao
+813,UBTVQH,Ủy ban thường vụ Quốc hội
+814,ƯCV,ứng cử viên
+815,UNDP,Chương trình Phát triển Liên Hợp Quốc
+816,UNESCO,"Tổ chức Giáo dục, Khoa học và Văn hóa của Liên hiệp quốc"
+817,UNFPA,Quỹ dân số Liên Hợp Quốc
+818,UNHCR,Văn phòng Cao ủy Liên hợp quốc về người tỵ nạn
+819,UNICEF,Quỹ Nhi đồng Liên hợp quốc
+820,UNIFIL,Lực lượng gìn giữ hòa bình của LHQ tại miền nam Libăng
+821,UT,ung thư
+822,UV,Ủy viên
+823,UVBCH,Ủy viên ban chấp hành
+824,UVBCT,Ủy viên Bộ chính trị
+825,VCB,Ngân hàng ngoại thương Việt Nam
+826,VCK,Vòng chung kết
+827,VD,ví dụ
+828,VĐ,Vô địch
+829,VDC,Công ty Điện toán và Truyền số liệu
+830,VĐQG,Vô địch Quốc gia
+831,VĐV,Vận động viên
+832,VĐVQG,Vận động viên Quốc gia
+833,VFF,Liên đoàn bóng đá Việt Nam
+834,VH,Văn hóa
+835,VHGDTNTN,Văn hóa Giáo dục Thanh niên Thiếu niên
+836,VHGDTTNNĐ,Văn hóa Giáo dục Thanh thiếu niên và Nhi đồng
+837,VHNT,Văn học Nghệ thuật
+838,VHTT,Văn hóa Thông tin
+839,VKS,Viện Kiểm sát
+840,VKSND,Viện Kiểm sát Nhân dân
+841,VKSNDTC,Viện Kiểm sát Nhân dân Tối cao
+842,VL,Vật lý
+843,VLTK,Võ Lâm Truyền Kỳ
+844,VLXD,Vật liệu xây dựng
+845,VN,Việt Nam
+846,VNCC,Tổng Công ty Xi măng Việt Nam
+847,VNM,Vinamilk
+848,VP,Văn phòng
+849,VPCP,Văn phòng chính phủ
+850,VPĐD,Văn phòng đại diện
+851,VQG,Vườn Quốc gia
+852,VS,Vệ sinh
+853,VSP,Xí nghiệp Liên doanh Vietsovpetro
+854,VT,"Viên thông, Vi tính, Vũ trụ"
+855,VTV,Đài truyền hình Việt Nam
+856,VYSA,Hội Thanh niên Sinh viên Việt Nam tại Nhật Bản
+857,WB,Ngân hàng thế giới
+858,WTO,Tổ chức Thương mại thế giới
+859,XD,Xây dựng
+860,XDCB,xây dựng cơ bản
+861,XĐGN,Xoá đói giảm nghèo
+862,XDHK,Xăng dầu hàng không
+863,XH,Xã hội
+864,XHCN,Xã hội chủ nghĩa
+865,XHH,xã hội hóa
+866,XK,Xuất khẩu
+867,XKLĐ,xuất khẩu lao động
+868,XN,Xí nghiệp
+869,XNK,Xuất nhập khẩu
+870,XSKT,xổ số kiến thiết
+871,XTTM,Xúc tiến thương mại
+872,XX,Xét xử
+873,YKVN,Y khoa Việt Nam
+874,YTDP,Y tế Dự phòng
+875,YTế,Y tế
