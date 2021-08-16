@@ -1,0 +1,8 @@
+pandas==1.2.5
+simpletransformers==0.61.13
+scipy==1.4.1
+regex==2021.4.4
+fastapi==0.68.0
+numpy==1.18.1
+underthesea==1.2.3
+uvicorn==0.15.0
