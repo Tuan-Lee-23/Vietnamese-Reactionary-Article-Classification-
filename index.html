@@ -1,0 +1,94 @@
+<link rel="stylesheet" href="style.css">
+<div class="main">
+    <h1 style="margin-bottom: 30px;">Demo classification</h1>
+    <form class="form">
+        <input id="inputtask" type="text" placeholder="Enter your sentence here" />
+        <input id="addbutton" value="Add Task" type="submit" />
+    </form>
+    <ol class="todolist"></ol>
+    <button class="clear d-none">Make predictions</button>
+    <button class="clear" style="margin-top: 10px;" id="del">Clear list</button>
+
+    <ol style="text-align: center; color: white;" class="todolist t2"></ol>
+</div>
+<div class="link"><a href="https://radialcode.com">Visit RadialCode.com for more<a></div>
+
+<script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+
+<script>
+    const inputTask = document.querySelector("#inputtask");
+    const form = document.querySelector(".form");
+    const addButton = document.querySelector("#addbutton");
+    const toDoList = document.querySelector(".todolist");
+    const clear = document.querySelector(".clear");
+    const t2 = document.querySelector(".t2");
+    const del = document.querySelector('#del')
+
+    let array = []
+
+    form.addEventListener("submit", function (event) {
+        event.preventDefault();
+        if (inputTask.value == "") {
+            alert("please add Some Text");
+        } else {
+            const newTask = createNewItem(inputTask.value);
+            toDoList.appendChild(newTask);
+            array.push(inputTask.value)
+            inputTask.value = "";
+            inputTask.focus();
+            clear.classList.remove("d-none");
+        }
+
+
+        clear.addEventListener("click", function () {
+            // loading animation
+            let loader = `<div>Please wait...</div>`;
+            t2.innerHTML = loader;
+            
+            res = ''
+            for (let i = 0; i < array.length; i++) {
+                res += "q=" + array[i] + "&"
+            }
+            
+
+            url = "https://classification.loca.lt/query/?" + res
+            url = new URL(url)
+            axios.get(url).then(response => {
+                console.log(response.data)
+                t2.innerHTML = "Label: " + response.data['label'] + " (" +  parseFloat(response.data['probability']).toFixed(3) + ")"
+            })
+            
+        });
+
+        del.addEventListener("click", function() {
+            toDoList.innerHTML = "";
+            array = []
+        })
+
+    });
+
+
+    function createNewItem(inputValue) {
+        const task = document.createElement("li");
+        const span = document.createElement("span");
+        const delBtn = document.createElement("button");
+        const editBtn = document.createElement("button");
+        span.textContent = inputValue;
+        delBtn.textContent = "Delete";
+        editBtn.textContent = "Edit";
+        task.appendChild(span);
+        task.appendChild(delBtn);
+        task.appendChild(editBtn);
+
+        delBtn.addEventListener("click", function () {
+            task.parentNode.removeChild(task);
+        });
+        editBtn.addEventListener("click", function () {
+            span.contentEditable = true;
+            span.focus();
+        });
+
+        return task;
+    }
+
+</script>

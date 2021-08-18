@@ -1,12 +1,15 @@
 import pandas as pd
 import re
 from underthesea import word_tokenize
-from fastapi import FastAPI
+from fastapi import FastAPI, Query
+from typing import List
 from scipy.special import softmax
 import numpy as np
 import os
 import uvicorn
 from simpletransformers.classification import ClassificationModel, ClassificationArgs
+from fastapi.middleware.cors import CORSMiddleware
+
 
 np.set_printoptions(suppress=True)
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
@@ -107,45 +110,42 @@ def preprocess(ls):
 
     return df
 
+app = FastAPI()
+
+
+origins = ["*"]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=origins,
+    allow_credentials=True,
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
+def predict(df):
+    pred, prob = model.predict(df)
+    result =  {'label': pred, 'probability': list(softmax(prob, axis = 1)[:, 1])}
+    return result
+
+@app.get("/")
+async def read_root():
+    return {"message": "Subscribe to @1littlecoder"}
+
+
+@app.get("/query/")
+async def read_items(q: List[str] = Query(None), 
+                    title="Query string",
+                    description="Query list of strings for predictions",):
+    df = preprocess(q)
+    print("Preprocessing has been done")
+    return predict(df)
+
 
 if __name__ == "__main__":
-    print("import libs...")
-
+    # print("import libs...")
     model = ClassificationModel( "xlmroberta", "model", use_cuda = False)
-    print("import model...")
+    print("importing model...")
 
-    #ex = ["Bò đeo nơ ngốc nghếch"]
-    # "Bò đeo nơ ngốc nghếch",
-    # "Cộng sản là bọn bán nước hại dân",
-    # "Nhân dân ta quyết tâm đánh bại dịch Covid, bảo vệ dân tộc", 
-    # "Bọn cầm quyền tiếp tay cho Trung Cộng", 
-    # "Chính quyền làm khó vậy là chết dân rồi"]
-
-    #ex = preprocess(ex)
-
-    #print("preproces...")
-
-    #print(predict(ex))
-
-    app = FastAPI()
-
-    def predict(df):
-        pred, prob = model.predict(df)
-        result =  {'label': pred, 'probability': softmax(prob, axis = 1)}
-        return result
-
-
-    @app.get("/")
-    async def read_root():
-        return {"message": "Subscribe to @1littlecoder"}
-
-
-    @app.get('/query/{msg}')
-    def predict_query(msg: str):
-        df = preprocess([msg])
-        # print("preprocess: ", df) 
-        return predict(df)
-
-
-    #uvicorn.run(app, host="0.0.0.0", port=8000)
+    uvicorn.run(app, host="0.0.0.0", port=8000)
    
