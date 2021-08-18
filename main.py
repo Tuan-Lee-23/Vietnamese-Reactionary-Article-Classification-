@@ -122,7 +122,6 @@ app.add_middleware(
     allow_methods=["*"],
     allow_headers=["*"],
 )
-
 def predict(df):
     pred, prob = model.predict(df)
     result =  {'label': pred, 'probability': list(softmax(prob, axis = 1)[:, 1])}
@@ -144,8 +143,9 @@ async def read_items(q: List[str] = Query(None),
 
 if __name__ == "__main__":
     # print("import libs...")
-    model = ClassificationModel( "xlmroberta", "model", use_cuda = False)
     print("importing model...")
+    model = ClassificationModel( "xlmroberta", "model", use_cuda = False)
+    print("Our Model is ready")
 
     uvicorn.run(app, host="0.0.0.0", port=8000)
    

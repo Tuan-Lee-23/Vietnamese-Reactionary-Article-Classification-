@@ -9,10 +9,8 @@
     <button class="clear d-none">Make predictions</button>
     <button class="clear" style="margin-top: 10px;" id="del">Clear list</button>
 
-    <ol style="text-align: center; color: white;" class="todolist t2"></ol>
+    <ol class="todolist t2"></ol>
 </div>
-<div class="link"><a href="https://radialcode.com">Visit RadialCode.com for more<a></div>
-
 <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 
 <script>
@@ -38,11 +36,11 @@
             inputTask.focus();
             clear.classList.remove("d-none");
         }
+    });
 
-
-        clear.addEventListener("click", function () {
+    clear.addEventListener("click", function () {
             // loading animation
-            let loader = `<div>Please wait...</div>`;
+            let loader = `<div style = "color: white;">Please wait...</div>`;
             t2.innerHTML = loader;
             
             res = ''
@@ -53,10 +51,30 @@
 
             url = "https://classification.loca.lt/query/?" + res
             url = new URL(url)
+
+            label_1 = `<button class="card" style="background-color: white;
+                padding: 10px; color: red; border: none; font-size: 15px; 
+            font-weight: bold; border-radius: 5px;">Phản động</button>`
+
+            label_0 = `<button class="card" style="background-color: white;
+                padding: 10px; color: blueviolet; border: none; font-size: 15px; 
+            font-weight: bold; border-radius: 5px;">Bình thường</button>`
+
+            console.log("One: ", url)
             axios.get(url).then(response => {
                 console.log(response.data)
-                t2.innerHTML = "Label: " + response.data['label'] + " (" +  parseFloat(response.data['probability']).toFixed(3) + ")"
+                t2.innerHTML = ""
+
+                for (let i = 0; i < array.length; i++) {
+                    label = response.data['label'][i]
+                    t2.appendChild(createNewItem(array[i]))
+                    if (label == 1 || label == '1')
+                        t2.lastChild.innerHTML += label_1
+                    else 
+                        t2.lastChild.innerHTML += label_0
+                }
             })
+            console.log("done")
             
         });
 
@@ -65,8 +83,6 @@
             array = []
         })
 
-    });
-
 
     function createNewItem(inputValue) {
         const task = document.createElement("li");
@@ -74,19 +90,19 @@
         const delBtn = document.createElement("button");
         const editBtn = document.createElement("button");
         span.textContent = inputValue;
-        delBtn.textContent = "Delete";
-        editBtn.textContent = "Edit";
+        // delBtn.textContent = "Delete";
+        // editBtn.textContent = "Edit";
         task.appendChild(span);
-        task.appendChild(delBtn);
-        task.appendChild(editBtn);
+        // task.appendChild(delBtn);
+        // task.appendChild(editBtn);
 
-        delBtn.addEventListener("click", function () {
-            task.parentNode.removeChild(task);
-        });
-        editBtn.addEventListener("click", function () {
-            span.contentEditable = true;
-            span.focus();
-        });
+        // delBtn.addEventListener("click", function () {
+        //     task.parentNode.removeChild(task);
+        // });
+        // editBtn.addEventListener("click", function () {
+        //     span.contentEditable = true;
+        //     span.focus();
+        // });
 
         return task;
     }
